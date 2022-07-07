@@ -1,4 +1,4 @@
-Este é o repositório do desafio de projeto da aula **Flexbox em CSS3** onde fiz uma réplica da Interface de login do Instagram 2022 usando conceitos aprendidos na aula.
+Este é o repositório do desafio de projeto da aula **Flexbox em CSS3** onde reconstruí a página de interface de login do Instagram 2022 usando conceitos aprendidos na aula.
 
 #### Os requisitos foram:
 
