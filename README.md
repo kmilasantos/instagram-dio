@@ -5,7 +5,7 @@ Desafio de projeto da aula <b>Flexbox em CSS3</b> onde reconstruí a interface d
 
 </br>
 
-## Os requisitos foram:
+## Pré-requisitos:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
